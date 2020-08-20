@@ -4,7 +4,7 @@
     "module": "none",
     "noImplicitAny": true,
     "outFile": "./build/build.js",
-    "pwreserveConstEnums": true,
+    "preserveConstEnums": true,
     "removeComments": true,
     "rootDir": "./src/",
     "sourceMap": true,
