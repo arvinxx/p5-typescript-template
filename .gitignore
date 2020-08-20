@@ -1,0 +1,10 @@
+node_modules/
+.vscode/
+build
+**/*.js
+**/*.js.map
+
+package-lock.json
+*.log
+.DS_Store
+.idea
